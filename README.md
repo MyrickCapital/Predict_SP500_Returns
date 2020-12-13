@@ -1,0 +1,2 @@
+# Predict_SP500_Returns
+Our main purpose for this project is to test whether stock returns can be predicted. More specifically, we would like to forecast S&amp;P 500 index excess returns. We study several machine learning methods of predicting future stock returns, such as the ElasticNet regression, PLS, Random Forests and Multi-layer Perception(MLP). Finally, we evaluate our models’ performance and analyze the results so that we can reach our conclusions.
