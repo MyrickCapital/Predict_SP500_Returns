@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-os.chdir("C:/Users/ww/Desktop/2021/big_data/project")
+os.chdir("C:/Users/flora/Desktop/2021/big_data/project")
 df=pd.read_excel('data.xlsx',index_col=0,parse_dates=True,sheet_name="Monthly")
 print(df.head())
 print(df.columns)
